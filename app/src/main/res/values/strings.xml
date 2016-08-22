@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SqliteStudy</string>
+    <string name="add_database">add database</string>
+    <string name="add_word">add word</string>
+</resources>
